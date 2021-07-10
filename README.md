@@ -1,4 +1,4 @@
-If You Want To Save This Pages When You Are In A Hurry And Then save it For Letter and open it 
+If You Want To Save Any Tab  or Website When You Are In A Hurry And Then save it For Letter and open it 
 
 ![Screenshot (167)](https://user-images.githubusercontent.com/52909024/125154664-ce664280-e17a-11eb-97fe-fed4b88c1075.png)
 
@@ -17,4 +17,4 @@ Then You Can Just Type In Website or Click Save Tab & Save It For Later On, As S
 6. Enjoy!!!
 
 
-There Is No Lisence on this and You Are Free To Use or Modify or use for Commercial Project.
+There Is No License on this and You Are Free To Use or Modify or use for Commercial Project.
