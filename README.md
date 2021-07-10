@@ -1,16 +1,7 @@
-# title(){return this.options.title||this.options.name}
+If You Want To Save This Pages When You Are In A Hurry And Then save it For Letter and open it 
 
-## Supporting Scrimba
+![Screenshot (167)](https://user-images.githubusercontent.com/52909024/125154664-ce664280-e17a-11eb-97fe-fed4b88c1075.png)
+# or,
+![Screenshot (168)](https://user-images.githubusercontent.com/52909024/125154665-d0c89c80-e17a-11eb-97ca-c7bfa1799018.png)
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
-
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+Then You Can Just Type In Website or Click Save Tab & Save It For Later On,
